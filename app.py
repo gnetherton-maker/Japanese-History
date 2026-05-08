@@ -157,7 +157,7 @@ else:
 # --- BIBLIOGRAPHY / SOURCES SECTION ---
 st.write("---") 
 
-with st.expander("📚 Project Bibliography & Source Citations"):
+with st.expander("Project Bibliography & Source Citations"):
     st.markdown("""
     * [1] Lidin, Olof G. *Tanegashima: The Arrival of Europe in Japan*. Copenhagen: NIAS Press, 2002.
     * [2] Totman, Conrad. *Early Modern Japan*. Berkeley: University of California Press, 1993.
@@ -219,7 +219,7 @@ elif 1560 <= selected_year < 1582:
     firearms. Nobunaga contstantly evolded his style of fighting to adapt enemy forces, allowing him to take an un-unified japan and lay the foundation 
     for the eventual unification of the country.
         
-    In additio to matchlocks Nobunaga constantly employed new advances in military technology to maintain his dominance. His use of Atakebune (ironclad warships) to control the inland sea
+    In addition to matchlocks Nobunaga constantly employed new advances in military technology to maintain his dominance. His use of Atakebune (ironclad warships) to control the inland sea
     and stone walls to fortify castles allwoed him to dominate all battlefields, controlling central Honshu with an iron grip.
     """)
 
